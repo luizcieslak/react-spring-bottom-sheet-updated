@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/la55u/react-spring-bottom-sheet-updated/compare/v1.0.2...v1.0.3) (2023-06-18)
+
+
+### Bug Fixes
+
+* add missing springConfig spread ([08f01d5](https://github.com/la55u/react-spring-bottom-sheet-updated/commit/08f01d57c1efc6c3c1ef7008453591f4325b0add))
+
 ## [1.0.2](https://github.com/la55u/react-spring-bottom-sheet-updated/compare/v1.0.1...v1.0.2) (2023-06-18)
 
 
