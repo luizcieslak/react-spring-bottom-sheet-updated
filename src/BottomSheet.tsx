@@ -717,7 +717,7 @@ export const BottomSheet = React.forwardRef<
         }}
       >
         {header !== false && (
-          <div key="header" data-rsbs-header ref={headerRef} {...bind()}>
+          <div key="header" data-rsbs-header ref={headerRef}>
             {header}
           </div>
         )}
